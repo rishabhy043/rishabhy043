@@ -7,13 +7,16 @@
 
 ---
 
-### 🔥 About Me
-- 💻 I’m a **Java Full Stack Learner** with a solid foundation in both **frontend** and **backend** technologies.
-- 🌱 Currently enhancing my knowledge in **Spring Boot**, **REST APIs**, and **System Design**.
-- 🧠 I like building clean, user-centric apps using **React, Java, and SQL**.
-- ✨ Always eager to collaborate, contribute, and grow in the dev community.
-- 📫 How to reach me: **rishabh.knipss43@gmail.com**
-- ⚡ Fun fact: I debug bugs faster when I talk to my code 😅
+
+- 🌱 I’m currently learning **Java Full Stack**
+
+- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/rishabhy043)
+
+- 💬 Ask me about **React, SQL, JavaScript, TypeScrip, Java**
+
+- 📫 How to reach me **rishabh.knipss043@gmail.com**
+
+- ⚡ Fun fact **I can debug anything... except real life 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
